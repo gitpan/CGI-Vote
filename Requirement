@@ -1,0 +1,25 @@
+1. Admin page for "Title" "Description","Expire Date","Choices per ip", and unlimited "Options".
+2. Admin could monitor current statistics
+3. Admin could edit template that generates frontend pages..
+
+----
+17:11 < freddylin> 1.我先進去某個網頁, 然後可以填入 " 投票標題 " " 內文 "
+17:11 < freddylin> 2.填入選項(無限制數量?)
+17:11 < freddylin> 3.填入截止日期
+17:11 < freddylin> 3.填入每人可以投幾票
+17:11 < freddylin> 4才對
+17:12 < freddylin> 還要讓我可以偷看現在票數怎樣哈哈哈!
+17:12 <@gugod> 要不要記名投票？
+17:12 < freddylin> 然後底色給我黑色即可
+17:12 < freddylin> 不用記名
+17:13 <@gugod> ok...
+17:13 < freddylin> 還是有可能我每次弄不一樣的投票都可以改html?
+17:13 < freddylin> 當然是我自己改
+17:13 < freddylin> 我只是說, 是不是我可以用不同的template去套?
+17:14 <@gugod> oh 你要 template ？
+17:14 < freddylin> 我不知道啊! 我只是在想, 如果投野台大寶珠我就要放大寶珠的照片
+17:14 < freddylin> 如果要投野台濁水溪表演分數, 就放濁水溪照片
+17:14 < freddylin> 這種的
+17:15 < freddylin> 還是多加一個欄位 " 投票附圖 " ??
+17:15 <@gugod> oh... 大致上知道你的意思了
+17:15 <@gugod> 反正你會改 html 那就好辦
