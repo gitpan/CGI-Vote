@@ -2,6 +2,7 @@
 
 <head>
 <title>[% title %]</title>
+<meta http-equiv="content-type" value="text/html; charset=utf8" />
 <link rel="stylesheet" href="user.css" type="text/css" />
 </head>
 <body>

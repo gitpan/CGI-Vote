@@ -7,7 +7,7 @@ require Exporter;
 
 use vars qw($VERSION);
 
-$VERSION = '0.10';
+$VERSION = '0.11';
 
 use strict;
 use DB_File;
